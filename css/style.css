@@ -1200,17 +1200,17 @@ form.form_w3layouts {
 }
 .agileinfo-contact-left {
     background: rgba(0, 0, 0, 0.7);
-    padding: 3em 3em 11.1em;
+    padding: 3em 3em 3.2em;
 }
 .agileinfo-contact-left:before {
     content: '';
-    background: url(../images/p1.png)no-repeat 0px 0px;
-    background-size: 100%;
+    /*background: url(../images/p1.png)no-repeat 0px 0px;*/
+   /* background-size: 100%;*/
     display: block;
     position: absolute;
     left: 12px;
     width: 26%;
-    height: 280px;
+    height: 260px;
     z-index: 0;
     bottom: 0%;
 }
